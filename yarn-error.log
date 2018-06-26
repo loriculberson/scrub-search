@@ -1,0 +1,33 @@
+Arguments: 
+  /usr/local/bin/node /usr/local/bin/yarn add faker
+
+PATH: 
+  /Users/loriculberson/.rvm/gems/ruby-2.4.1/bin:/Users/loriculberson/.rvm/gems/ruby-2.4.1@global/bin:/Users/loriculberson/.rvm/rubies/ruby-2.4.1/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/loriculberson/.rvm/gems/ruby-2.4.1/bin:/Users/loriculberson/.rvm/gems/ruby-2.4.1@global/bin:/Users/loriculberson/.rvm/rubies/ruby-2.4.1/bin:/Users/loriculberson/.rvm/bin:/Applications/Visual Studio Code.app/Contents/Resources/app/bin:/Applications/Visual Studio Code.app/Contents/Resources/app/bin
+
+Yarn version: 
+  1.3.2
+
+Node version: 
+  8.9.4
+
+Platform: 
+  darwin x64
+
+npm manifest: 
+  {
+    "name": "scrub-search",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
+
+Trace: 
+  Error: getaddrinfo ENOTFOUND npm.artifactory.homedepot.com npm.artifactory.homedepot.com:443
+      at errnoException (dns.js:50:10)
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:92:26)
