@@ -1,0 +1,43 @@
+{
+  "Users": [
+    {
+      "firstName": "Courtney",
+      "lastName": "Shanahan",
+      "age": 76,
+      "address": "9991 Tyson Greens",
+      "state": "Washington",
+      "favoriteColor": "ivory",
+      "jobTitle": "Forward Division Officer",
+      "luckyNumber": 29,
+      "employer": "Blick, Moen and Abbott",
+      "motto": "Upgradable impactful forecast",
+      "id": "1"
+    },
+    {
+      "firstName": "Marcelle",
+      "lastName": "Considine",
+      "age": 73,
+      "address": "28358 Fahey Lodge",
+      "state": "Connecticut",
+      "favoriteColor": "ivory",
+      "jobTitle": "Senior Group Producer",
+      "luckyNumber": 98,
+      "employer": "Emmerich Inc",
+      "motto": "Future-proofed real-time local area network",
+      "id": "2"
+    },
+    {
+      "firstName": "Hertha",
+      "lastName": "Powlowski",
+      "age": 90,
+      "address": "3381 Lydia Spur",
+      "state": "Kansas",
+      "favoriteColor": "lime",
+      "jobTitle": "Chief Configuration Director",
+      "luckyNumber": 58,
+      "employer": "Klocko, Crist and Nolan",
+      "motto": "Sharable demand-driven concept",
+      "id": "3"
+    }
+  ]
+}
