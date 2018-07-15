@@ -1,0 +1,26 @@
+body {
+  font-size: .9em;
+}
+
+.user-table {
+  margin-top: 20px;
+  border-spacing: 0px;
+}
+
+table td {
+  border: solid 1px gray; 
+}
+
+th, td {
+  padding: 4px;
+}
+
+tr:nth-child(even) {
+  background: #D3D3D3;
+}
+
+.search {
+  width: 30%;
+  height: 30px;
+  border: solid 1px gray; 
+}

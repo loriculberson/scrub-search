@@ -2,10 +2,10 @@ const faker = require('faker');
 const fs = require('fs');
 
 let usersObj = {};
-let key = 'Users';
+let key = 'data';
 usersObj[key] = [];
 
-for (let i=1; i<4; i++) {
+for (let i=1; i<6; i++) {
   const user = new User();
   user.id = i.toString();
   usersObj[key].push(user);

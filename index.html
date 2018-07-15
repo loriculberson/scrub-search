@@ -4,13 +4,20 @@
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <title>TLC Scrubs</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" type="text/css" media="screen" href="app.css" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
-  <div class='containter'>
-    <h2>Scrubs</h2>
-    <div class='table'></div>
+  <div class='container'>
+    <h2 class='scrubs'>Scrubs</h2>
+    <input class="search" type='text'>
+    <div>
+      <table class='user-table'>
+        <tbody class='user-body'></tbody>
+      </table>
+    </div>
   </div>
+  <script src='./data/users.js'></script>
+  <script src='table.js'></script>
 </body>
 </html>
