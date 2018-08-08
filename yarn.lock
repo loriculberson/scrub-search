@@ -5,3 +5,7 @@
 faker@^4.1.0:
   version "4.1.0"
   resolved "https://npm.artifactory.homedepot.com/artifactory/api/npm/npm/faker/-/faker-4.1.0.tgz?dl=https://registry.yarnpkg.com/faker/-/faker-4.1.0.tgz#1e45bbbecc6774b3c195fad2835109c6d748cc3f"
+
+tiny-worker@^2.1.2:
+  version "2.1.2"
+  resolved "https://npm.artifactory.homedepot.com/artifactory/api/npm/npm/tiny-worker/-/tiny-worker-2.1.2.tgz?dl=https://registry.yarnpkg.com/tiny-worker/-/tiny-worker-2.1.2.tgz#6feb363b87885582fdc6d91b37fe00dd612b84f2"

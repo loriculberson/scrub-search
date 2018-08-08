@@ -1,5 +1,5 @@
 const users = {
-  "data": [
+  "info": [
     {
       "firstName": "Victoria",
       "lastName": "Skiles",
